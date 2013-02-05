@@ -101,7 +101,7 @@ header {
   position:fixed;
 }
 
-header ul {
+header ul.btn {
   list-style:none;
   height:40px;
   
@@ -121,14 +121,14 @@ header ul {
   width:270px;
 }
 
-header li {
+header ul.btn li {
   width:89px;
   float:left;
   border-right:1px solid #d2d2d2;
   height:40px;
 }
 
-header ul a {
+header ul.btn a {
   line-height:1;
   font-size:11px;
   color:#999;
