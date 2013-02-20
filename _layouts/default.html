@@ -3,9 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }}{{ page.title ? ' < '  : '' }}ApiBootstraper</title>
 
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/styles.css">
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/css/responsive.css">
     <link rel="stylesheet" href="{{site.baseurl}}/assets/css/pygment_trac.css">
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
@@ -19,9 +20,9 @@
         <p></p>
 
         <ul>
-          <li><a href="{{site.baseurl}}/">Home</a></li>
-          <li><a href="{{site.baseurl}}/apps">Application</a></li>
-          <li><a href="{{site.baseurl}}/about">About</a></li>
+          <li><a href="{{ site.baseurl }}/">Home</a></li>
+          <li><a href="{{ site.baseurl }}/apps">Applications</a></li>
+          <li><a href="{{ site.baseurl }}/about">About</a></li>
         </ul>
 
         <p class="view"><a href="https://github.com/ApiBootstraper">View My GitHub Profile</a></p>
@@ -34,7 +35,7 @@
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
-    <script src="{{site.baseurl}}/assets/js/scale.fix.js"></script>
+    <script src="{{ site.baseurl }}/assets/js/scale.fix.js"></script>
     <script type="text/javascript">
       var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
       document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
