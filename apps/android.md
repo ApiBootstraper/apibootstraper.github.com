@@ -7,7 +7,7 @@ title: Android client &lsaquo; Apps
 
 ### Introduction
 
-An Android client.
+An Android client.  
 [View on github](https://github.com/ApiBootstraper/android)
 
 
