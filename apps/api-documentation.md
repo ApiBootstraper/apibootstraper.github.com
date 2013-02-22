@@ -22,6 +22,14 @@ A Rails application to manage an Api documentation.
     </td>
     <th>Dependency status<br /><a href="https://gemnasium.com/ApiBootstraper/Api-documentation">gemnasium.com/ApiBootstraper/Api-documentation</a></th>
   </tr>
+  <tr>
+    <td>
+      <a href="https://codeclimate.com/github/ApiBootstraper/Api-documentation">
+        <img src="https://codeclimate.com/github/ApiBootstraper/Api-documentation.png" />
+      </a>
+    </td>
+    <th>Code climate<br /><a href="https://codeclimate.com/github/ApiBootstraper/Api-documentation">codeclimate.com/github/ApiBootstraper/Api-documentation</a></th>
+  </tr>
 </table>
 
 ### Contributors
