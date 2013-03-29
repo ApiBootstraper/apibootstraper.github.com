@@ -5,38 +5,14 @@ title: Apps
 
   ## Applications
 
-  <table>
-  	<tr>
-  		<td width="15%">
-  			<a href="{{ site.baseurl }}/apps/rails-server"></a>
-  		</td>
-  		<th>
-  			<h3><a href="{{ site.baseurl }}/apps/rails-server">A Rails Api server</a></h3>
-  		</th>
-  	</tr>
-  	<tr>
-  		<td width="15%">
-  			<a href="{{ site.baseurl }}/apps/api-documentation"></a>
-  		</td>
-  		<th>
-  			<h3><a href="{{ site.baseurl }}/apps/api-documentation">Api documentation</a></h3>
-  		</th>
-  	</tr>
-  	<tr>
-  		<td width="15%">
-  			<a href="{{ site.baseurl }}/apps/ios-client"><img src="{{ site.baseurl }}/assets/img/apps/ios-client.png" alt=""></a>
-  		</td>
-  		<th>
-  			<h3><a href="{{ site.baseurl }}/apps/ios-client">iOS client application</a></h3>
-  		</th>
-  	</tr>
-  	<tr>
-  		<td width="15%">
-  			<a href="{{ site.baseurl }}/apps/android"><img src="{{ site.baseurl }}/assets/img/apps/android-client.png" alt=""></a>
-  		</td>
-  		<th>
-  			<h3><a href="{{ site.baseurl }}/apps/android">Android client application</a></h3>
-  		</th>
-  	</tr>
-  </table>
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | []({{ site.baseurl }}/apps/rails-server)                                                   | ### [A Rails Api server]({{ site.baseurl }}/apps/rails-server)          |
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | []({{ site.baseurl }}/apps/apps/api-documentation)                                         | ### [Api documentation]({{ site.baseurl }}/apps/apps/api-documentation) |
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | [!{{ site.baseurl }}/assets/img/apps/ios-client.png!]({{ site.baseurl }}/apps/ios-client)  | ### [iOS client application]({{ site.baseurl }}/apps/ios-client)        |
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  | [!{{ site.baseurl }}/assets/img/apps/android-client.png!]({{ site.baseurl }}/apps/android) | ### [Android client application]({{ site.baseurl }}/apps/android)       |
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
