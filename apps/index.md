@@ -3,7 +3,7 @@ layout: default
 title: Apps
 ---
 
-  <h2>Applications</h2>
+  ## Applications
 
   <table>
   	<tr>
