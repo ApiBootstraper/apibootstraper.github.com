@@ -3,6 +3,7 @@ name: ApiBootstraper
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 # description: This is a sample Jekyll Blog.
+description: An API REST Bootstrap
 
 # Your name, as you want it to appear underneath each post and in the footer
 author: ApiBootstraper
@@ -17,7 +18,7 @@ category_dir: /
 #baseurl: /path/to/blog 
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: http://apibootstraper.github.com/
+url: http://apibootstraper.github.io/
 
 
 
