@@ -35,5 +35,6 @@ A Rails application to manage an Api documentation.
 ### Contributors
 
 * [nicolas-brousse](https://github.com/nicolas-brousse)
+* [B-Rass](https://github.com/B-Rass)
 * [FuriouZz](https://github.com/FuriouZz)
 
